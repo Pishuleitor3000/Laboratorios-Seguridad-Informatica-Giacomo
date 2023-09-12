@@ -1,4 +1,5 @@
-#Pablo Pérez
+#Carlos Calderon
+#Giacomo Zúñiga
 
 import requests 
 
